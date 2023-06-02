@@ -41,7 +41,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'speakit'
             artifactId = 'Petstore'
-            version = '1.0.0'
+            version = '1.0.1'
 
             from components.java
 
