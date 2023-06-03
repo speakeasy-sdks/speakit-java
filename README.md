@@ -6,7 +6,7 @@
 ### Gradle
 
 ```groovy
-implementation 'speakit.Petstore:Petstore:1.0.1'
+implementation 'speakit.Petstore:Petstore:1.1.0'
 ```
 <!-- End SDK Installation -->
 
