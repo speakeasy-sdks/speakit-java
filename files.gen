@@ -38,6 +38,13 @@ lib/src/main/java/speakit/Petstore/models/operations/ShowPetByIdRequest.java
 lib/src/main/java/speakit/Petstore/models/operations/ShowPetByIdResponse.java
 lib/src/main/java/speakit/Petstore/models/shared/Error.java
 lib/src/main/java/speakit/Petstore/models/shared/Pet.java
-docs/petstore/README.md
-docs/pets/README.md
+docs/sdks/petstore/README.md
+docs/sdks/pets/README.md
 USAGE.md
+docs/models/operations/CreatePetsResponse.md
+docs/models/operations/ListPetsRequest.md
+docs/models/operations/ListPetsResponse.md
+docs/models/operations/ShowPetByIdRequest.md
+docs/models/operations/ShowPetByIdResponse.md
+docs/models/shared/Error.md
+docs/models/shared/Pet.md
